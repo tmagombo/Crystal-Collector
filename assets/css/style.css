@@ -1,0 +1,77 @@
+h1 {
+    width: 80%;
+    margin: auto;
+    background-color: #00bfff;
+    text-align: center;
+    font-size: 40pt;
+}
+
+body {
+    background-color: darkgray;
+}
+
+#crystalbox{
+    height:100px;
+    position: absolute;
+    left: 122.5;
+    top: 350;
+    width: 700px;
+}
+p {
+color: white;
+font-size: 15pt;
+
+}
+
+#instructions {
+    background-color: indigo;
+    width: 500px;
+    position: absolute;
+    left: 122.5;
+    height: 250px;
+    margin-right: 0;
+}
+
+#statsbox {
+    background-color: indigo;
+    width: 300px;
+    position: absolute;
+    right: 122.5;
+    height: 370px;
+    margin-left:0;
+  
+}
+
+img {
+
+width: 100px;
+
+}
+
+#blue-crystal {
+    padding-right:40;
+    width: 120px;
+    float: left;
+}
+
+#white-crystal {
+    float: left;
+    width: 120px;
+    padding-right:40;
+
+
+}
+
+#green-crystal {
+    padding-right:40;
+    width: 120px;
+    float: left;
+
+}
+
+#red-crystal {
+    float: left;
+    padding-right:40;
+    width: 120px;
+
+}
