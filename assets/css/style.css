@@ -60,6 +60,7 @@ font-size: 15pt;
     background-color: indigo;
     width: 300px;
     height: 250px;
+    padding-top: 10;
     position: relative;   
     bottom:168; 
     left: 800;
