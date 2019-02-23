@@ -87,6 +87,9 @@ $(document).on("click", function(){
         losses++;
         userScore = 0;
         $("#lossesText").text(losses);
-
+        $("#userscoreText").text(userScore);
+        alert("Sorry You Lost...Try Again?");
+        crystalScore();
+        randomscoreGen();
      }
 });      
